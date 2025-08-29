@@ -27,7 +27,7 @@ This repository showcases my work in **Power BI** using **Power Query, DAX, and 
 - **Goal:** Study unemployment trends across different age groups, genders, and time periods.
 - **File:** (https://github.com/YashaswiniBaglakadi/Unemployment-Analysis.git)
 ### 6. 🛍️ Online Shopping
-- **Goal:** To anlysis of online shopping outlets"
+- **Goal:** To anlyze the online shopping outlets"
 -**Files** (https://github.com/YashaswiniBaglakadi/Online-Shopping-Analysis.git)
 ---
 ## ⚙️ Tools & Skills
